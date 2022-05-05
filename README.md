@@ -29,6 +29,10 @@ Now click on the "*Other*" button and locate and select the ISO file containing 
 <img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/choose-ubuntu-iso-from-disk.png"></br>
 Once the "*Open*" button is clicked, the image file will be selected and we can proceed.
 
-At this point you can start the operation of creating a startup USB key by clicking the "*Make Startup Disk*" button. The application will ask you if you are sure you want to proceed as this will delete all the data currently on the USB stick. To confirm and want to proceed, click the "*Yes*" button. At this point, unless you have started the startup USB creation program as administrator, the application will ask you to enter your administrator credentials for the installed operating system.
+At this point you can start the operation of creating a startup USB key by clicking the "*Make Startup Disk*" button. The application will ask you if you are sure you want to proceed as this will delete all the data currently on the USB stick. To confirm and want to proceed, click the "*Yes*" button. At this point, unless you have started the startup USB creation program as administrator, the application will ask you to enter your administrator credentials for the installed operating system. Enter your administrator credentials and press the "*Ok*" button and you will start the actual creation process.
+
+Wait for the process to complete. You will see a percentage indicator scroll until you reach 100%. At that point a confirmation message will appear and you can exit the program by clicking the "Quit" button.
+<img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/confirm-usb-bootable-created.png"></br>
+
 
 
