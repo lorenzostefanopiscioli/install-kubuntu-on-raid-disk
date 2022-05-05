@@ -21,6 +21,6 @@ If you have currently been using a Windows system, I suggest you use [*Rufus*](h
 
 For linux users, press the *CTRL + ALT + T* keys simultaneously. This will open a terminal window in the center of your screen. At the command line, type "usb-creator-gtk" and hit enter.
 
-[![abc](abc "abc")](https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/ubuntu-terminal.png "abc")
+[![abc](abc "abc")](https://raw..com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/ubuntu-terminal.png "abc")
 
 
