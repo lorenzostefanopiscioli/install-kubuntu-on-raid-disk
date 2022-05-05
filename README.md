@@ -21,5 +21,6 @@ If you have currently been using a Windows system, I suggest you use [*Rufus*](h
 
 For linux users, press the *CTRL + ALT + T* keys simultaneously. This will open a terminal window in the center of your screen. At the command line, type "usb-creator-gtk" and hit enter.
 <img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/ubuntu-terminal-run-usb-creator-gtk.png"></br>At this point the utility will open that will allow us to create a boot disk for installing Ubuntu Server 22.04 LTS.
-<img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/usb-creator-gtk.png">
+<img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/usb-creator-gtk.png"></br>
+In my case, as you can see from the image, I have already inserted a blank USB stick that I will use to create the installation stick. Beware that all data currently on the USB stick will be lost with this operation.
 
