@@ -24,3 +24,8 @@ For linux users, press the *CTRL + ALT + T* keys simultaneously. This will open 
 <img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/usb-creator-gtk.png"></br>
 In my case, as you can see from the image in the "*Disk to use*" section, I have already inserted an empty USB device that I will use to create the installation USB. Beware that all data currently on the USB stick will be lost when the creation operation starts.
 If you have not yet inserted your USB device, do so now and check that it appears in the list in the "*Disk to use*" section and that it is selected.
+
+Now click on the "*Other*" button and locate and select the ISO file containing the Ubuntu Server 22.04 LTS image you downloaded earlier.
+<img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/choose-ubuntu-iso-from-disk.png"></br>
+
+
