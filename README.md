@@ -20,7 +20,6 @@ Once we have the image file, in this step we will need to use this same file to 
 If you have currently been using a Windows system, I suggest you use [*Rufus*](https://rufus.ie/en/ "*Rufus*").
 
 For linux users, press the *CTRL + ALT + T* keys simultaneously. This will open a terminal window in the center of your screen. At the command line, type "usb-creator-gtk" and hit enter.
-<img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/ubuntu-terminal-run-usb-creator-gtk.png">
-At this point the utility will open that will allow us to create a boot disk for installing Ubuntu Server 22.04 LTS.
+<img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/ubuntu-terminal-run-usb-creator-gtk.png"></br>At this point the utility will open that will allow us to create a boot disk for installing Ubuntu Server 22.04 LTS.
 <img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/usb-creator-gtk.png">
 
