@@ -15,5 +15,6 @@ I realize this step can seem unexpected, but this is probably the basic idea for
 
 So let's start downloading the iso of [Ubuntu Server 22.04 LTS](https://cdimage.ubuntu.com/ubuntu-server/daily-live/current/jammy-live-server-amd64.iso "Ubuntu Server 22.04 LTS").
 
+
 ### 2. Creating an installation disk
 Once we have the image file, in this step we will need to use this same file to create a boot disk for the system installer. I will give the example of how to create an installation disk from a Kubuntu system using the *Startup Disk Creator* application. Here you can read how to install this utility if it is not already present in your system: [how to install *Startup Disk Creator*](https://www.how2shout.com/linux/create-live-bootable-usb-using-ubuntu-20-04s-startup-disk-creator/ "how to install *Startup Disk Creator*").
