@@ -27,5 +27,8 @@ If you have not yet inserted your USB device, do so now and check that it appear
 
 Now click on the "*Other*" button and locate and select the ISO file containing the Ubuntu Server 22.04 LTS image you downloaded earlier.
 <img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/choose-ubuntu-iso-from-disk.png"></br>
+Once the "*Open*" button is clicked, the image file will be selected and we can proceed.
+
+At this point you can start the operation of creating a startup USB key by clicking the "*Make Startup Disk*" button. The application will ask you if you are sure you want to proceed as this will delete all the data currently on the USB stick. To confirm and want to proceed, click the "*Yes*" button.
 
 
