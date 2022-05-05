@@ -10,3 +10,8 @@ The raids can be made with very fast dedicated hardware in the operations of man
 
 Normally the hardware systems are more performing, but the speed of the software raids for consumer-level computers is still very interesting. However, it should be noted that for each additional pair of disks added to a type 0 raid system, the overhead of management operations increases. So if you go from a single disk system to a raid 0 with 2 disks, don't expect a net doubling of performance. The same thing if you go from 2 to 4 disks, raid 0 will increase its performance but a little less than proportionally to the increase in the resources used.
 
+### 1. Download Ubuntu Server 22.04 LTS
+I realize this step can seem unexpected, but this is probably the basic idea for simplifying a raid installation. You should know that the server version of the Ubuntu installer comes with loaded software drivers that allow the creation, mounting and management of software raids: mdadm.
+
+So let's start downloading the iso of [Ubuntu Server 22.04 LTS](https://cdimage.ubuntu.com/ubuntu-server/daily-live/current/jammy-live-server-amd64.iso "Ubuntu Server 22.04 LTS").
+
