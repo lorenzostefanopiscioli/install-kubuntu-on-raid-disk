@@ -31,8 +31,10 @@ Once the "*Open*" button is clicked, the image file will be selected and we can 
 
 At this point you can start the operation of creating a startup USB key by clicking the "*Make Startup Disk*" button. The application will ask you if you are sure you want to proceed as this will delete all the data currently on the USB stick. To confirm and want to proceed, click the "*Yes*" button. At this point, unless you have started the startup USB creation program as administrator, the application will ask you to enter your administrator credentials for the installed operating system. Enter your administrator credentials and press the "*Ok*" button and you will start the actual creation process.
 
-Wait for the process to complete. You will see a percentage indicator scroll until you reach 100%. At that point a confirmation message will appear and you can exit the program by clicking the "Quit" button.
+Wait for the process to complete. You will see a percentage indicator scroll until you reach 100%. At that point a confirmation message will appear and you can exit the program by clicking the "*Quit*" button.
 <img src="https://raw.githubusercontent.com/lorenzostefanopiscioli/install-kubuntu-on-raid-disk/main/guide-images/confirm-usb-bootable-created.png"></br>
+Perfect, if there weren't any hitches, you've got your OS installation USB ready at this point.
+Now you will have to restart the computer on which you want to install Kubuntu 22.04 LTS on raid and tell its bios to read the USB we just created as the first boot device.
 
-
-
+The way in which to set the bios of the computer in order to start reading the USB stick first can vary from computer to computer, so I suggest you search for how to do it according to your pc.
+However in general you have to press the F2 key when starting your computer.
