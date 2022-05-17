@@ -1,5 +1,5 @@
 # How to install Kubuntu 22.04 LTS on raid
-This guide shows you a way to easily install [Kubuntu 22.04 LTS](https://kubuntu.org/getkubuntu/ "Kubuntu 22.04 LTS") (but it works for other Ubuntu flavors too) on a [RAID](https://en.wikipedia.org/wiki/RAID "RAID"). In this specific case I will install the operating system on SSD disks by setting a level 0 software raid.
+This guide shows you a way to easily install [Kubuntu 22.04 LTS](https://kubuntu.org/getkubuntu/ "Kubuntu 22.04 LTS") on a [RAID Level 0](https://en.wikipedia.org/wiki/RAID "RAID"). This way works for other Ubuntu flavors too. In this specific case I will install the operating system on SSD disks by setting a level 0 software raid.
 
 ## Introduction
 The fundamental condition to consider is that a level 0 raid system (striping) tries to divide the data to be saved in equal parts over the number of disks of which it is composed (minimum 2).
